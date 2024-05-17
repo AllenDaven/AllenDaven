@@ -1,4 +1,4 @@
-### Hi there! I'am Allen Daven Argallon 👋
+## Hi there! I'am Allen Daven Argallon 👋
 
 <!--
 **AllenDaven/AllenDaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
