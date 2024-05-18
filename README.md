@@ -1,16 +1,44 @@
-## Hi there! I'am Allen Daven Argallon 👋
+# Hi there! I'am Allen Daven Argallon 👋
 
-<!--
-**AllenDaven/AllenDaven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a full-stack web developer and software engineer based in Cebu City, Philippines. I have a passion for coding and am always eager to learn new technologies. Below, you can see a showcase of my skills. Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 About Me
+- 📖 I am currently studying at the University of Cebu - Banilad Campus in the Philippines, pursuing a Bachelor of Science in Information Technology.
+- 🎓 I am also enrolled in Lithan Academy's bootcamp in Singapore, where I am working towards an Applied Degree in Software Engineering.
+- 🌐 I am passionate about web development and love contributing to open-source projects and collaborating on innovative solutions.
+- 💡 I am constantly exploring new technologies and improving my skills to stay up-to-date in the ever-evolving field of software engineering.
+
+
+## 🔧 My Skills
+Here are some of the technologies I work with:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,spring,mysql"/>
+  </a>
+</p>
+
+
+## 🛠️ Tools I Use
+In addition to my skills, here are some of the tools I regularly use:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma" />
+  </a>
+</p>
+
+
+## 📬 Get in Touch
+<p align="center">
+  <a href="https://www.instagram.com/allen_daven/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/allen-daven-argallon-68a12729b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your.allendavenargallon@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
