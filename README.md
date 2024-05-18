@@ -28,17 +28,3 @@ In addition to my skills, here are some of the tools I regularly use:
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma" />
   </a>
 </p>
-
-
-## 📬 Get in Touch
-<p align="center">
-  <a href="https://www.instagram.com/allen_daven/">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/allen-daven-argallon-68a12729b/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:your.allendavenargallon@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
