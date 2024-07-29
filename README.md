@@ -35,8 +35,7 @@ In addition to my skills, here are some of the tools I regularly use:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,eclipse,figma,postman" />
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" height="50"/>
-    <img src="https://seeklogo.com/images/M/microsoft-power-automate-logo-0DCEDAD6CA-seeklogo.com.png" alt="Power Automate" height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/HubSpot_logo.svg" alt="HubSpot" height="50"/>
   </a>
 </p>
+
+
