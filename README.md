@@ -5,32 +5,22 @@
 Welcome to my GitHub profile! I'm a full-stack web developer and software engineer based in Cebu City, Philippines. I have a passion for coding and am always eager to learn new technologies. Below, you can see a showcase of my skills. Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
 
-## 📚 About Me
-- 📖 I am currently studying at the University of Cebu - Banilad Campus in the Philippines, pursuing a Bachelor of Science in Information Technology.
-- 🎓 I am also enrolled in Lithan Academy's bootcamp in Singapore, where I am working towards an Applied Degree in Software Engineering.
-- 🌐 I am passionate about web development and love contributing to open-source projects and collaborating on innovative solutions.
-- 💡 I am constantly exploring new technologies and improving my skills to stay up-to-date in the ever-evolving field of software engineering.
+## 🚀 About Me
+I am currently pursuing a Bachelor of Science in Information Technology at the University of Cebu - Banilad Campus in the Philippines, while also enrolled in Lithan Academy's bootcamp in Singapore, where I am working towards an Applied Degree in Software Engineering. Passionate about web development, I actively contribute to open-source projects and collaborate on innovative solutions. I am committed to staying up-to-date in the ever-evolving field of software engineering by constantly exploring new technologies and honing my skills. 
+
+As a dedicated student at both Lithan EduClaas Singapore and University of Cebu - Banilad Campus, I am focused on mastering programming languages, algorithms, and software development methodologies. My passion for technology and innovation drives me to become a proficient software engineer, capable of solving complex problems and contributing to groundbreaking projects. My aspirations go beyond merely achieving academic success; I strive to utilize my skills to develop meaningful solutions that tackle real-world issues be it improving user experiences, enhancing system efficiency, or transforming industries through innovative software.
 
 
 ## 🔧 My Skills
-Here are some of the technologies I work with:
 
 <p align="center">
   <a href="https://skillicons.dev">
     <!-- Front-End Technologies -->
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,vite"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <!-- Back-End Technologies -->
-    <img src="https://skillicons.dev/icons?i=java,spring,php,laravel,mysql"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vite,java,spring,php,laravel,mysql"/>
   </a>
 </p>
 
 ## 🛠️ Tools I Use
-In addition to my skills, here are some of the tools I regularly use:
 
 <p align="center">
   <a href="https://skillicons.dev">
