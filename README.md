@@ -1,6 +1,6 @@
 ![Alt Text](https://github.com/AllenDaven/AllenDaven/blob/main/github.jpg)
 
-# Hi there! I'am Allen Daven Argallon 👋
+# Hi 👋 I'm Allen Daven Argallon
 
 Welcome to my GitHub profile! I'm a full-stack web developer and software engineer based in Cebu City, Philippines. I have a passion for coding and am always eager to learn new technologies. Below, you can see a showcase of my skills. Feel free to explore my repositories and get in touch if you'd like to collaborate.
 
